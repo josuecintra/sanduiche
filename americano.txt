@@ -1,7 +1,6 @@
-Ingredientes:
-- Pão;
-- Queijo;
-- Presunto;
-- Ovo frito;
-- Tomate;
-- Alface.
+pão
+queijo
+presunto
+ovo frito
+tomate
+alface
